@@ -1,0 +1,250 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    position: fixed;
+    top: 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.img{
+    width: 170px;
+    height: 158px;
+    margin-left: 153px;
+    margin-top: -17px;
+}
+header div .login{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    margin-left: 170px;
+    margin-top: 38px;
+}
+.logins{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    margin-left: 33px;
+    margin-top: 38px;
+}
+.submit{
+    height: 30px;
+    width: 99px;
+    border: 0px solid;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 118px;
+    margin-top: 38px;
+}
+.facebook{
+    margin-left: 20px;
+    margin-top: 42px;
+}
+.ice {
+    height: 484px;
+    width: 100%;
+}
+.network{
+    font-family: sans-serif;
+    font-size: 26px;
+    color: white;
+    margin-top: -199px;
+    margin-left: 389px;
+}
+.line{
+    background-color: gray;
+    margin-top: 164px;
+}
+.sec{
+    padding-bottom: 204px;
+}
+.live1{
+    margin-left: 60px;
+    margin-top: 70px;
+    height: 505px;
+    margin-bottom: -5px;
+}
+.stream{
+    margin-left: 524px;
+    font-family: sans-serif;
+    font-size: 76px;
+    margin-top: -423px;
+}
+.broad{
+    margin-left: 524px;
+    margin-top: -20px;
+    font-family: sans-serif;
+    color: gray;
+}
+.div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.glass{
+    margin-left: 524px;
+    height: 168px;
+    width: 205px;
+    border-radius: 4px;
+}
+.sing{
+    margin-left: 55px;
+    height: 168px;
+    width: 205px;
+}
+.down{
+    height: 168px;
+    width: 205px;
+    border-radius: 4px;
+}
+.sec2{
+    background-color: lightgray;
+    margin-top: -191px;
+}
+.sec2 {
+    background-color: lightgray;
+    margin-top: -123px;
+    height: 568px;
+}
+.real-time{
+    width: 60%;
+    margin-left: 109px;
+    padding-top: 30px;
+}
+.real{
+    font-family: sans-serif;
+    font-size: 76px;
+    
+}
+.engage{
+    margin-top: -25px;
+    font-family: sans-serif;
+    color: gray;
+    margin-left: 113px;
+}
+
+.live2 {
+    margin-left: 829px;
+    height: 505px;
+    margin-top: -196px;
+}
+.hoot{
+    margin-top: -351px;
+    margin-left: 354px;
+}
+.set2{
+    margin-left: 38px;
+    margin-top: 14px;
+    width: 400px;
+}
+.font{
+    margin-left: 579px;
+    width: 300px;
+    margin-top: 33px;
+}
+.virtual{
+    font-family: sans-serif;
+    font-size: 76px;
+    margin-left: 500px;
+}
+.send{
+    font-family: sans-serif;
+    color: gray;
+    margin-left: 500px;
+    margin-top: -25px;
+}
+.live3{
+    height: 505px;
+    margin-top: -230px;
+    margin-bottom: -22px;
+    margin-left: 86px;
+}
+.gift{
+    margin-top: -234px;
+    margin-left: 493px;
+}
+.footer{
+    background-color: rgb(68, 67, 67);
+    padding-top: 200px;
+}
+.copy{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 400px;
+    margin-top: -131px;
+}
+.user{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 502px;
+    margin-top: -2px;
+}
+.foot{
+    margin-left: 1100px;
+    margin-top: -80px;
+}
+.up{
+    height: 30px;
+    width: 99px;
+    border: 0px solid;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+}
+.move{
+    color: lightgrey;
+    margin-top: 50px;
+}
+
+/* sign up css */
+.background{
+    background-image: url("../images/photo-1568112722371-6640a76ad9ba.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.set{
+    height: 30px;
+    width: 99px;
+    border: 0px solid;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 67px;
+    margin-top: 38px;
+    font-size: 23px;
+}
+.head{
+    width: 170px;
+    height: 158px;
+    margin-left: 153px;
+    margin-top: -17px;
+}
+.control{
+    margin: auto;
+    width: 676px;
+    height: 720px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.name{
+    margin-left: 37px;
+    color: black;
+    position: relative;
+    top: 46px;
+}
+span{color: red;
+}
+.name-box{
+
+}
